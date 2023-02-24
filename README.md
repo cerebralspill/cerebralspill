@@ -1,6 +1,6 @@
 ### Howdy, I'm Mikey Nguyen 👋✨
 
-## I'm a Software Developer, Creative, Baker
+## I'm a Software Developer and Creative
 - 🔭 I’m currently working on a stinky project.
 - 🌱 I’m currently learning React, Typescript, GraphQL
 - 💬 Open to collaboration
