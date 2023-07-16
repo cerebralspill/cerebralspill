@@ -1,8 +1,8 @@
 ### Howdy, I'm Mikey Nguyen 👋✨
 
 ## I'm a Software Developer and Creative
-- 🔭 I’m currently working on a stinky project.
-- 🌱 I’m currently learning React, Typescript, GraphQL
+- 🔭 I’m currently working on a secret project.
+- 🌱 I’m currently learning React, NextJS, Typescript
 - 💬 Open to collaboration
 - 🐱 I have 2 cats: Winona and Launchpad
 
