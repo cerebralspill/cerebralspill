@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and Creative
 - 🔭 I’m currently working on a trivial farty project.
-- 🌱 I’m currently learning Go, React, NextJS, Typescript
+- 🌱 I’m currently learning React, NextJS, Typescript
 - 💬 Open to collaboration
 - 🐱 I have 2 cats: Winona and Launchpad
 
